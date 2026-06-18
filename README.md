@@ -29,4 +29,3 @@ In this project, I developed a machine learning model to predict loan approval d
 
 I’m grateful to InternSpark for providing practical projects that strengthen real-world Data Science and Machine Learning skills.
 
-#InternSpark #DataScience #MachineLearning #Python #DataAnalytics 
